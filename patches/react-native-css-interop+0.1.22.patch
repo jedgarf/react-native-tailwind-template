@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-css-interop/babel.js b/node_modules/react-native-css-interop/babel.js
+index 5a8a29b..d79f574 100644
+--- a/node_modules/react-native-css-interop/babel.js
++++ b/node_modules/react-native-css-interop/babel.js
+@@ -9,7 +9,7 @@ module.exports = function () {
+           importSource: "react-native-css-interop",
+         },
+       ],
+-      "react-native-reanimated/plugin",
++      "react-native-worklets/plugin",
+     ],
+   };
+ };

@@ -1,0 +1,14 @@
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\ComponentDescriptors.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\EventEmitters.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\Props.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\ShadowNodes.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\States.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\react\renderer\components\rnreanimated\rnreanimatedJSI-generated.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnreanimated_autolinked_build\CMakeFiles\react_codegen_rnreanimated.dir\rnreanimated-generated.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\ComponentDescriptors.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\EventEmitters.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\Props.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\ShadowNodes.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\States.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\react\renderer\components\rnworklets\rnworkletsJSI-generated.cpp.o
+D:\react_native\RNTemplate\android\app\.cxx\Debug\6l4j5a51\arm64-v8a\rnworklets_autolinked_build\CMakeFiles\react_codegen_rnworklets.dir\rnworklets-generated.cpp.o

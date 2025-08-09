@@ -1,0 +1,12 @@
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/CMakeFiles/appmodules.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnreanimated_autolinked_build/CMakeFiles/edit_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnreanimated_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnworklets_autolinked_build/CMakeFiles/react_codegen_rnworklets.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnworklets_autolinked_build/CMakeFiles/edit_cache.dir
+C:/react_native/RNTemplate/android/app/.cxx/Debug/4x246d6j/arm64-v8a/rnworklets_autolinked_build/CMakeFiles/rebuild_cache.dir

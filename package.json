@@ -14,12 +14,19 @@
     "ios:clean": "cd ios && xcodebuild clean",
     "watchman:del": "watchman watch-del-all",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "patch-package"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.80.2",
+    "nativewind": "^4.1.23",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
     "react": "19.1.0",
     "react-native": "0.80.2",
-    "@react-native/new-app-screen": "0.80.2"
+    "react-native-reanimated": "^4.0.2",
+    "react-native-safe-area-context": "^5.6.0",
+    "react-native-worklets": "^0.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -39,6 +46,7 @@
     "jest": "^29.6.3",
     "prettier": "2.8.8",
     "react-test-renderer": "19.1.0",
+    "tailwindcss": "^3.4.17",
     "typescript": "5.0.4"
   },
   "engines": {

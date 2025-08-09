@@ -1,0 +1,4 @@
+D:\react_native\RNTemplate\node_modules\react-native-reanimated\android\build\generated\source\codegen\jni\CMakeLists.txt
+D:\react_native\RNTemplate\node_modules\react-native-safe-area-context\android\src\main\jni\CMakeLists.txt
+D:\react_native\RNTemplate\node_modules\react-native-worklets\android\build\generated\source\codegen\jni\CMakeLists.txt
+D:\react_native\RNTemplate\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

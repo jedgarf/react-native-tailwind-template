@@ -1,0 +1,4 @@
+D:/react_native/RNTemplate/android/app/.cxx/Debug/6l4j5a51/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/react_native/RNTemplate/android/app/.cxx/Debug/6l4j5a51/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/react_native/RNTemplate/android/app/.cxx/Debug/6l4j5a51/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/react_native/RNTemplate/android/app/.cxx/Debug/6l4j5a51/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
