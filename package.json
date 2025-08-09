@@ -3,10 +3,17 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
-    "ios": "react-native run-ios",
+    "start": "npx react-native start",
+    "start:reset": "npx react-native start --reset-cache",
+    "doctor": "npx react-native doctor",
+    "android": "npx react-native run-android",
+    "android:clean": "cd android && ./gradlew clean",
+    "android:build": "cd android && gradlew assembleRelease --warning-mode none",
+    "ios": "npx react-native run-ios",
+    "ios:pod-install": "pod install --allow-root --verbose",
+    "ios:clean": "cd ios && xcodebuild clean",
+    "watchman:del": "watchman watch-del-all",
     "lint": "eslint .",
-    "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
